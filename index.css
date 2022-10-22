@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
     padding:0px;
@@ -8,13 +8,13 @@ body {
     width:100vw;
     height:100vh;
     overflow:hidden;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 #loading {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(0 0, 0);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -213,7 +213,7 @@ body {
 }
 .btn_one {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat Sans', sans-serif;
     color:#fff;
     background:transparent;
     border:3px solid #fff;
@@ -230,7 +230,7 @@ body {
 }
 .btn_two {
     font-size:18px;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat Sans', sans-serif;
     color:rgb(255, 50, 50);
     background:#fff;
     border:3px solid #fff;
